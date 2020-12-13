@@ -1,4 +1,4 @@
-# Grwoth mindset
+# Growth Mindset
 
 ## Create your vision—define your destination
 
