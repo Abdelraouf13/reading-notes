@@ -1,5 +1,10 @@
 # Grwoth mindset
 
-### A growth mindset believes that one’s fundamental abilities can be developed through perseverance and effort; intelligence and talent are simply good starting points. A growth mindset is synonymous with a love of learning.
+## Create your vision—define your destination
 
-### By contrast, in a fixed mindset, intelligence and talent are seen as fixed traits, suggesting that success comes from these inherent qualities alone, without the need for further development or effort.
+*Don't be unconscious in life—too many people are sleepwalking* 
+
+**Be aware of your beliefs that may be holding you back.**
+
+* Try to live without regrets because at the end nobody care 
+  * nderstand what you can control 
