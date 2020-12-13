@@ -14,6 +14,6 @@
 
 * what's the difference between markup and markdown
 
-*Create a GitHub account and edit the account setting 
+*Create a GitHub account and edit the account setting* 
 
-_Got windows 10 updated **, install Windows Terminal** and I would like to Thank Tamim, TA Staff and my colleagues for their efforts 
+_Got windows 10 updated **, install Windows Terminal** and I would like to Thank Tamim, TA Staff and my colleagues for their efforts_
