@@ -1,1 +1,1 @@
-#Grwoth mindset
+# Grwoth mindset
