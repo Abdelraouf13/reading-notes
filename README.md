@@ -17,3 +17,5 @@
 *Create a GitHub account and edit the account setting* 
 
 _Got windows 10 updated **, install Windows Terminal** and I would like to Thank Tamim, TA Staff and my colleagues for their efforts_
+
+[Day 3 Summary](https://abdelraouf13.github.io/reading-notes/102-Class-3-Summary)
